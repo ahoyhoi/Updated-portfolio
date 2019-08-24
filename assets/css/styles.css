@@ -150,6 +150,29 @@ main {
 .port-image {
   margin: 20px auto;
 }
+
+.profile {
+
+  width: 300px;
+  height: 300px;
+  -webkit-transform:rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+  margin: 5px;
+  padding: 5px;
+  position: center;
+
+}
+
+.card {
+
+  margin: 20px;
+  padding: 10 px;
+
+}
+
 /* END PORTFOLIO PAGE */
 
 
